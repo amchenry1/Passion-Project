@@ -1,0 +1,432 @@
+<!doctype html>
+<!-- website design -->
+ <html lang="en">
+ <meta name="keywords" content="Horizon, Zero, Dawn, Guide">
+ <meta name="description" content="Horizon Zero Dawn Guide">
+ <meta name="viewport" content="width=device-width; initial-scaled=1.0">
+<style>
+ body {background-image: url(https://tse1.mm.bing.net/th?id=OIP.-j17Xcv8AU2ArmrdB8xTZgHaE-&pid=Api&P=0&w=260&h=174); background-repeat: repeat;}
+ #buttons {border:3px solid rgba(0, 15, 37, 1); background-color: transparent; color: rgba(0, 15, 37, 1); font-size: x-large;}
+ #Home {background-color: rgba(0, 0, 0, 0.7);}
+ #Character {background-color: rgba(0, 0, 0, 0.7);}
+ #Machines {background-color: rgba(0, 0, 0, 0.7);}
+ #Navigation {background-color: rgba(0, 0, 0, 0.7);}</style>
+<!--browser tab design-->
+ <head>
+ <meta charset="utf-8">
+ <title>Horizon: Zero Dawn Guide</title>
+ <link rel="icon" type="https://cdn2.unrealengine.com/breaker-v2-1280x956-380427959.png"></head>
+<!--extra icon picture https://www.freepngimg.com/download/game/84932-playstation-figure-zero-figurine-horizon-action-dawn.png-->
+<!--heading-->
+ <body style="color: azure;">
+ <img src="https://orig00.deviantart.net/fd84/f/2017/061/8/c/horizon_zero_dawn_icon_by_troublem4ker-db0xyzd.png" align="left" width="200" height="200"><img src="http://orig01.deviantart.net/9c6f/f/2017/033/e/2/horizon_zero_dawn___ps4___png_icon_by_s7_by_sidyseven-daxm848.png" align="right" float="right" width="200" height="200"><h1 style="background-image: url(https://clipground.com/images/horizon-zero-dawn-logo-png-2.png); color: azure; background-repeat: no-repeat; background-size: contain; background-position: center;"><br><br><br><br><br></h1>
+   <!-- Tabs -->
+ <p style="text-align: center;">
+ <button id="buttons" class="tablink" onclick="openPage('Home', this, 'rgba(0,0,0,0.50)')" id="defaultOpen">Home</button>
+ <button id="buttons" class="tablink" onclick="openPage('Character', this, 'rgba(0,0,0,0.50)')">Character</button>  
+ <button id="buttons" class="tablink" onclick="openPage('Machines', this, 'rgba(0,0,0,0.50)')">Machines</button>  
+ <button id="buttons" class="tablink" onclick="openPage('Navigation', this, 'rgba(0,0,0,0.50)')">Navigation</button></p>
+ <hr>
+<!-- Tabs -->
+ <div id="Home" class="tabcontent" >
+   <table>
+    <tr>
+      <td>
+   <h3>About the Game</h3>
+   <p style="margin-right: inherit;">Horizon Zero Dawn is a 2017 action game developed by Guerrilla Games and published by Sony Interactive Entertainment. The storyline follows Aloy, a young hunter in a world overrun by machines, who sets out to uncover her past. The player uses many different weapons types like ranged weapons, a spear, and stealth to fight mechanical creatures and other enemy forces. The player can explore the open world to discover locations and take on side quests. It was released for the PlayStation 4 in 2017 and Microsoft Windows in 2020.</p>
+     </td>
+   <td>
+    <img src="https://upload.wikimedia.org/wikipedia/en/9/93/Horizon_Zero_Dawn.jpg">
+     </td>
+    </tr>
+   </table>
+   <h3>In Depth Story</h3>
+   <p style="margin-right: inherit;">The story is set in a post-apocalyptic United States, between the states of Colorado, Wyoming and Utah, in the 31st century. Humans live in scattered, primitive tribes with varying levels of technological development. The world we know today is known to them as the "Old Ones". Large robotic creatures, known as "machines", dominate the Earth. Machines were created peacefully to take care of the planet. However, an event known as the "Derangement" has caused machines to become more aggressive, large, and more deadly. There are four tribes: the Nora, the Banuk, the Carja and the Oseram.</p>
+   <!--works cited-->
+    <h5 style="color: azure;">Works Cited</h5>
+    <p style="color: azure;"><a href="https://horizon.fandom.com/wiki/Horizon_Wiki">Horizon Fandom Wiki</a> -- used for machine information</p></div>
+ <div id="Character" class="tabcontent">
+   <h4 style="align-content: center;">
+   <img src="https://horizonzerodawn.wiki.fextralife.com/file/Horizon-Zero-Dawn/character_informaion.png"><br>
+   <table>
+    <tr>
+      <td>
+   <h3>Aloy</h3>
+   <p>Aloy is the protagonist of this adventurous rpg game. The story follows her through her life since the age of 6 years old. She grows up as an outcast from her tribe, the Nora, because they call her motherless. This may be true but she later in life learns that she was created by the AI named GAIA with the DNA from a scientist, Elizabet Sobeck, from the 21st century. A clone made for saving the planet. Aloy was raised in the wilds by a man named Rost who served as her father figure throughout her life. Throughout the storyline Aloy gains many allies, many enemies, and many who are both.</p></td>
+   <td><p float="right"><img src=https://i.ytimg.com/vi/JstUuLugD9c/hqdefault.jpg width="160" height="150"><br><img src=https://static.wikia.nocookie.net/horizonzerodawn/images/c/c6/NoraBrave.png/revision/latest/top-crop/width/360/height/360?cb=20170629021227 width="150" height="150"></p></td></tr></table>
+   <p style="background-image: url(https://gmedia.playstation.com/is/image/SIEPDC/horizon-zero-dawn-plot-summary-characters-image-block-01-ps4-en-24jun21?$native--t$); align-content: center; background-size: contain; background-repeat: no-repeat;"><br><br><br><br><br><br><br><br></p>
+   <p>From left to right; Helis, Vanasha, Varl, Rost, Sun King, Ervend, Sylens</p>
+   <hr>
+   <h4>Outfits</h4>
+   <p>
+
+   </div>
+ <div id="Machines" class="tabcontent">
+   <table>
+    <tr>
+    <td>
+     <h3>The Machines</h3>
+     <p><i>Deathbringers, Corruptors,</i> and other FAS machines have overrun the entire planet causing the Faro Plague, including the existence of humans. An AI, <i>GAIA</i>, spread inside underground facilities around the Earth, was created by the government to manufacture its own machines to try and revive life on Earth. Each machine had an original purpose. After creating all the machines to restore life, the AI then recreated the human race.</p>
+    </td>
+    <td>
+   <img src="http://horizonzerodawn.fr/wp-content/uploads/2017/03/panel-machines-hzd.png" width="405" height="246">
+   </tr>
+   </table>
+    <h3>Types of Machines</h3>
+   <table>
+   <tr>
+       <td>
+   <h4>Watcher</h4>
+   <p>The Watcher are the smallest known machines, Watchers are designed for reconnaissance. The machine exists in two models: a basic model and a slightly stronger upgraded variant. Compact, inquisitive, and agile recon unit that will attempt to swarm a target in numbers.</p>
+    </td>
+    <td>
+   <img src=https://vignette.wikia.nocookie.net/horizonzerodawn/images/3/3e/RedeyeWatcher-Render.png/revision/latest?cb=20170623043216 width="250" height="168"><br><p style="font-size: small;">"You must learn to avoid their gaze if you are to survive in the wilds."
+   ―Rost, showing Aloy a Watcher for the first time</p>
+    </td>
+   </tr>
+   <tr>
+    <td>
+   <h4>Tallneck</h4>
+    <p>This machine is absolutely harmless, except if you walk underneath it you may get stepped on. These machines are used to track locations on the map. They can be used to update large sections of your map at a time rather than having to travel and discover individual locations yourself. To obtain these maps you must climb the neck and onto the top of its head. It will then give you the option to override this machine. Overriding it will update your map.</p>
+    </td>
+    <td>
+   <img src=https://vignette.wikia.nocookie.net/horizonzerodawn/images/3/34/TallNeck-Render.png/revision/latest?cb=20170623042418 width="160" height="195">
+    </td>
+   </tr>
+   <tr>
+    <td>
+   <h4>Strider</h4>
+    <p>This machine travels in herds like a horse and is usually protected by a few watchers. You are able to sneak up on this machine and override them. These specific machines are able to be ridden as a mount. Herd machines that will bolt when disturbed, so they must be dealt with silently or quickly. Is mountable.</p>
+    </td>
+    <td>
+   <img src="https://vignette.wikia.nocookie.net/horizon-zero-dawn/images/4/49/Strider-Render.png/revision/latest?cb=20180103224504&path-prefix=fr"width="300" height="168"/><br><p style="font-size: small;">"A Strider. One of the weaker machines. But even a weak machine can kill a hunter -- if she is careless."
+   ―Rost, showing Aloy a Strider for the first time</p>
+    </td>
+   </tr>
+   <tr>
+    <td>
+   <h4>Broadhead</h4>
+    <p>These machines are also in herds and can be used as a mount(Like the Striders). You can sneak up on these machines and override them to then ride them around for traveling across long distances faster. Heavy runners that will bolt when disturbed, so they must be dealt with silently or quickly.</p>
+    </td>
+    <td>
+   <img src="https://vignette3.wikia.nocookie.net/horizonzerodawn/images/7/7e/Broadhead-Render.png/revision/latest?cb=20170228084347"width="300" height="168"/>
+    </td>
+   </tr>
+   <tr>
+    <td>
+   <h4>Scrapper</h4>
+    <p>These are a little more difficult to kill than the watchers. These machines resemble that of a large cat. They are created to take care of keeping the Earth’s terraforming healthy. A scavenger that can utilize its cutting maw and laser to put up a formidable defense.</p>
+    </td>
+    <td>
+   <img src="https://vignette.wikia.nocookie.net/horizonzerodawn/images/e/e3/Scrapper-Render.png/revision/latest?cb=20170623042955"width="300" height="168"/>
+    </td>
+   </tr>
+   <tr>
+    <td>
+   <h4>Grazer</h4>
+    <p>These machines travel in herds like the Striders. They usually have their heads on the ground and are distracted. They have the same job as a scrapper and are keeping the terraforming healthy. Generally flees when spooked, but capable of a gouging attack with its horns before running.</p>
+    </td>
+    <td>
+   <img src="https://vignette1.wikia.nocookie.net/horizonzerodawn/images/4/45/Grazer-Render.png/revision/latest?cb=20170228084350"width="300" height="168"/>
+    </td>
+   </tr>
+   <tr>
+    <td>
+   <h4>Charger</h4>
+    <p>A charger is closely related to the broadhead in terms of looks and behavior. The only difference is you cannot use these machines as a mount or as transportation. When a threat is detected, these herd machines will actively pursue and attack in numbers.</p>
+    </td>
+    <td>
+   <img src="https://static.wikia.nocookie.net/horizonzerodawn/images/e/ec/Charger-Render.png/revision/latest/scale-to-width-down/700?cb=20170623044439"width="300" height="168"/>
+    </td>
+   </tr>
+   <tr>
+    <td>
+   <h4>Glinthawk</h4>
+    <p>These machines fly like giant birds. Glinthawks are normally found in groups of 2-4. They shoot ice out of their beaks as an attack. Which then can slow the character movement for a limited time. These birds are usually found in more open locations like the desert areas of the map. Beware that these birds will also dive down and attack. An aerial scavenger designed to keep the land clean of broken machines.</p>
+    </td>
+    <td>
+   <img src="http://vignette2.wikia.nocookie.net/horizonzerodawn/images/d/d7/Glinthawk-Render.png/revision/latest?cb=20170306164454"width="300" height="168"/><br><p style="font-size: small;">"Must be a Glinthawk... a flying scavenger."
+   ―Aloy, upon sighting a Glinthawk</p>
+    </td>
+   </tr>
+   <tr>
+    <td>
+   <h4>Longleg</h4>
+   <p>The Longleg is a Reconnaissance Class machine. It is one of three known avian machines; however, it is incapable of flight. As a recon machine, it patrols on a constant lookout for perceived threats. Unlike its much smaller fellow recon machine the Watcher, it is able to scan and call reinforcements via radar as well as visually. A deafening sonic blast attack, powerful jump jets, and an alarm call make it a tricky opponent.</p>
+    </td>
+    <td>
+   <img src="http://vignette1.wikia.nocookie.net/horizonzerodawn/images/0/08/LongLeg-Render.png/revision/latest?cb=20170228084351"width="275" height="200"/><br><p style="font-size: small;">"With those legs, that machine looks as fast as it is loud. I'd better be careful."
+   ―Aloy, upon sighting a Longleg</p>
+    </td>
+   </tr>
+   <tr>
+    <td>
+   <h4>Lancehorn</h4>
+   <p>The Lancehorn is a small Acquisition Class machine, its function is the gathering and recycling of natural resources. Herds of Lancehorns are found in the various tribal lands, particularly in snowy climates.</p>
+    </td>
+    <td>
+   <img src="https://horizonzerodawn.fr/wp-content/uploads/2017/03/Lancehorn-Render.png"width="175" height="200"/>
+    </td>
+   </tr>
+   <tr>
+    <td>
+   <h4>Shell-Walker</h4>
+   <p>The Shell-Walker is a medium-sized Transport Class machine, primarily functioning in the transport of resources gathered and processed by other machines to cauldrons. However, it was weaponized at the onset of the Derangement, and now poses a significant threat to any human who encounters one.</p>
+   </td>
+    <td>
+   <img src="https://vignette.wikia.nocookie.net/horizon-zero-dawn/images/8/88/ShellWalker-Render.png/revision/latest?cb=20171229203239&path-prefix=fr"width="300" height="168"/>
+    </td>
+   </tr>
+   <tr>
+    <td>
+   <h4>Stalker</h4>
+   <p>The Stalker is a medium-sized Combat Class machine; however it is unique among combat machines in that, while all other known combat machines employ open aggression, the Stalker employs stealth. Its adeptness at ambushing, coupled with its deployment in areas where visibility is challenging, such as jungle environments, makes the Stalker a particularly grave threat to any human in these environments.</p>
+    </td>
+    <td>
+   <img src="https://vignette.wikia.nocookie.net/horizon-zero-dawn/images/6/6e/Stalker-Render.png/revision/latest?cb=20170826222357&path-prefix=fr"width="320" height="168"/>
+    </td>
+   </tr>
+   <tr>
+    <td>
+   <h4>Snapmaw</h4>
+   <p>The Snapmaw is a medium-sized Acquisition Class machine, and the only machine known to be amphibious until Horizon Forbidden West .[1] They were originally created as docile water purifiers as part of Zero Dawn. However, as a consequence of the Derangement, they have become a lethal danger to humans who pass within their sight at any body of water in which they are found.</p>
+    </td>
+    <td>
+   <img src="https://vignette3.wikia.nocookie.net/horizonzerodawn/images/5/5e/Snapmaw-Render.png/revision/latest?cb=20170228084354"width="300" height="168"/>
+    </td>
+   </tr>
+   <tr>
+    <td>
+   <h4>Sawtooth</h4>
+   <p>The Sawtooth is a medium-sized Combat Class machine, one of the first known machines of this class. It was developed by the artificial intelligence (AI) HEPHAESTUS as a graduation in its efforts to protect Zero Dawn terraforming machines from human predation.</p>
+    </td>
+    <td>
+   <img src="https://vignette.wikia.nocookie.net/horizon-zero-dawn/images/9/94/Sawtooth-Render.png/revision/latest?cb=20171020210748&path-prefix=fr"width="285" height="168"/>
+    </td>
+   </tr>
+   <tr>
+    <td>
+   <h4>Ravager</h4>
+   <p>The Ravager is a medium-sized apex combat machine, feared because of its ferocity and its powerful energy cannon. Like other combat machines, it was designed and developed by the artificial intelligence (AI) HEPHAESTUS to protect Zero Dawn terraforming machines from predation by humans.</p>
+    </td>
+    <td>
+   <img src="https://vignette.wikia.nocookie.net/horizonzerodawn/images/c/c7/Ravager-Render.png/revision/latest?cb=20170623043305"width="300" height="168"/>
+    </td>
+   </tr>
+   <tr>
+    <td>
+   <h4>Trampler</h4>
+   <p>The Trampler is a medium sized Acquistion Class machine, tasked with the collection of mineral resources for use in the construction of new machines. Originally docile, Tramplers have become hostile toward humans with the onset of the Derangement, and they now aggressively attack any human they encounter.</p>
+     </td>
+    <td>
+   <img src="https://vignette.wikia.nocookie.net/horizon-zero-dawn/images/d/d6/Trampler-Render.png/revision/latest?cb=20171020210805&path-prefix=fr"width="300" height="168"/>
+    </td>
+   </tr>
+   <tr>
+    <td>
+   <h4>Bellowbacks</h4>
+   <p>The Fire Bellowback is a dinosaur-like medium-sized machine of the Transport Class. It is one of a pair of “twin” machines; the other machine in the pair being the Freeze Bellowback. Swollen with volatile liquid cargo, it can spray streams of its cargo to engulf enemies.</p>
+    </td>
+    <td>
+   <img src="http://vignette3.wikia.nocookie.net/horizonzerodawn/images/3/36/FreezeBellowback-Render.png/revision/latest?cb=20170320172054"width="300" height="168"/><br><p style="font-size: small;">Freeze Bellowback above; Fire Bellowback below</p><br><img src="http://vignette1.wikia.nocookie.net/horizonzerodawn/images/d/d1/FireBellowback-Render.png/revision/latest?cb=20170228084350"width="300" height="168"/><br><p style="font-size: small;">"It looks like that machine carries fluid in those sacs. Not sure I want to find out what kind."―Aloy, upon sighting a Fire Bellowback</p>
+    </td>
+   </tr>
+    <tr>
+    <td>
+   <h4>Behemoth</h4>
+   <p>The Behemoth is a large machine. Its primary purpose is the collection of resources from smaller machines and the transport of these resources to cauldrons for machine manufacture. It collects these resources using its anti-gravity technology. With the onset of the Derangement, this technology is used by the machine for lethal attacks on any human it encounters. It charges and overruns targets with its great bulk or uses lifting engines to launch rocks at range.</p>
+    </td>
+    <td>
+   <img src="https://vignette1.wikia.nocookie.net/horizonzerodawn/images/e/eb/Behemoth-Render.png/revision/latest?cb=20170307185020"width="300" height="168"/>
+    </td>
+   </tr>
+    <tr>
+    <td>
+   <h4>Corruptor</h4>
+   <p>The Corruptor is not a contemporary machine; rather it is one of three machines of the "Old Ones", manufactured by the robotics and technology corporation Faro Automated Solutions during the mid 21st century. As such, it was designated by FAS as the FAS-ACA3 Scarab. However one swarm of Chariot robots, including Corruptors, went out of control, becoming the Faro Plague, and ultimately eradicated all life on Earth. Long buried in the earth, leaving it weak to heat. It remains an agile, deadly war machine.</p>
+    </td>
+    <td>
+   <img src="https://static.wikia.nocookie.net/horizonzerodawn/images/a/a3/Corruptor-Render.png/revision/latest/scale-to-width-down/700?cb=20170623044324"width="280" height="168"/><br><p style="font-size: small;">Nora: "By the Goddess, what’s it doing to them?"<br>Aloy: "Taking control."<br>―First Corruptor encounter</p>
+    </td>
+   </tr>
+    <tr>
+    <td>
+   <h4>Stormbird</h4>
+   <p>The Stormbird is a large aerial combat-class machine. Its ability to fly distinguishes it from other machines of this class. Its huge size, intimidating appearance, superior field of vision (due to being aerial), and an array of powerful attacks make it a lethal threat to any human who enters an area over which a Stormbird patrols. Highly maneuverable flying machine with a wide array of Shock based air-to-ground attacks.</p>
+    </td>
+    <td>
+   <img src="https://vignette.wikia.nocookie.net/horizonzerodawn/images/6/6a/Stormbird-Render.png/revision/latest?cb=20170623042041"width="260" height="180"/><br><p style="font-size: small;">"Twice the size of a Glinthawk, and crackling with lightning. Won't be easy to take down."
+   ―Aloy, upon sighting a Stormbird</p>
+    </td>
+   </tr>
+    <tr>
+    <td>
+   <h4>Rockbreaker</h4>
+   <p>The Rockbreaker is a large machine, and one of the largest known machines. It is unique among machines in general in that it is the only known machine capable of subterranean ambulation. Its main purpose is the underground mining of mineral resources. However with the onset of the Derangement, its huge size, power and subterranean ability have been turned toward attacking any human it senses walking the ground above it, ambushing the target with lethal results. Sensitive to sound, this massive machine burrows underground and surfaces with devastating force.</p>
+    </td>
+    <td>
+   <img src="https://vignette.wikia.nocookie.net/horizonzerodawn/images/b/b3/Rockbreaker-Render.png/revision/latest?cb=20170623043130"width="300" height="168"/>
+    </td>
+   </tr>
+    <tr>
+    <td>
+   <h4>Thunderjaw</h4>
+   <p>The Thunderjaw is a large Combat Class machine, one of the two largest machines of this class. Its size, power, and array of heavily damaging weapons make it one of the most feared of all machines. Apex combat machine, equipped with a wide array of heavy artillery and melee attacks.</p>
+    </td>
+    <td>
+   <img src="https://orig00.deviantart.net/e95c/f/2017/176/4/6/thunderjaw_render_by_merkavadragunov-dbdyswa.png"width="300" height="168"/>
+    </td>
+   </tr>
+    <tr>
+    <td>
+   <h4>Deathbringer</h4>
+   <p>The Deathbringer is not a contemporary machine; rather it is one of three machines of the ancient Chariot Class, manufactured by the robotics and technology corporation Faro Automated Solutions during the mid 21st century. As such, it was designated by FAS as the FAS-FSP5 Khopesh. However one swarm of Chariot robots, including Khopeshes, went out of control, becoming the Faro Plague, and ultimately eradicated all life on Earth. An unearthed ancient weapons platform, built to deliver overwhelming force. Prone to overheating.</p>
+    </td>
+    <td>
+   <img src="https://static.wikia.nocookie.net/horizonzerodawn/images/c/c8/Deathbringer-Render.png/revision/latest/scale-to-width-down/700?cb=20170623044225"width="300" height="168"/>
+    </td>
+   </tr>
+    <tr>
+    <td>
+   <h4>Corrupted Machines</h4>
+   <p>Corrupted Machines are those affected by the corrupting properties of metalburn and the network hijacking capabilities of the FAS Chariot line of Peacekeeper robots. They are identified by red-black tendrils growing from their bodies, presumably generated through some form of nanotechnology.</p>
+    </td>
+    <td>
+   <img src="https://static.wikia.nocookie.net/horizonzerodawn/images/0/03/CorruptedMachine-Render.png/revision/latest/scale-to-width-down/300?cb=20170629025533"width="300" height="168"/><br><p style="font-size: small;">"Those machines - you can see the Corruption coming off them like smoke."
+   ―Aloy</p>
+    </td>
+   </tr>
+   </table>
+   </div>
+ <div id="Navigation" class="tabcontent">
+    <h4>The Map</h4>
+    <p>
+   <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+     * {box-sizing: border-box;}
+
+     .img-zoom-container {
+      position: relative;
+     }
+
+     .img-zoom-lens {
+      position: absolute;
+      border: 1px solid #d4d4d4;
+      /*set the size of the lens:*/
+      width: 40px;
+      height: 40px;
+     }
+
+     .img-zoom-result {
+      border: 1px solid #d4d4d4;
+      /*set the size of the result div:*/
+      width: 300px;
+      height: 300px;
+     }
+     </style>
+    <script>
+     function imageZoom(imgID, resultID) {
+      var img, lens, result, cx, cy;
+      img = document.getElementById(imgID);
+      result = document.getElementById(resultID);
+      /*create lens:*/
+      lens = document.createElement("DIV");
+      lens.setAttribute("class", "img-zoom-lens");
+      /*insert lens:*/
+      img.parentElement.insertBefore(lens, img);
+      /*calculate the ratio between result DIV and lens:*/
+      cx = result.offsetWidth / lens.offsetWidth;
+      cy = result.offsetHeight / lens.offsetHeight;
+      /*set background properties for the result DIV:*/
+      result.style.backgroundImage = "url('" + img.src + "')";
+      result.style.backgroundSize = (img.width * cx) + "px " + (img.height * cy) + "px";
+      /*execute a function when someone moves the cursor over the image, or the lens:*/
+      lens.addEventListener("mousemove", moveLens);
+      img.addEventListener("mousemove", moveLens);
+      /*and also for touch screens:*/
+      lens.addEventListener("touchmove", moveLens);
+      img.addEventListener("touchmove", moveLens);
+      function moveLens(e) {
+        var pos, x, y;
+        /*prevent any other actions that may occur when moving over the image:*/
+        e.preventDefault();
+        /*get the cursor's x and y positions:*/
+        pos = getCursorPos(e);
+        /*calculate the position of the lens:*/
+        x = pos.x - (lens.offsetWidth / 2);
+        y = pos.y - (lens.offsetHeight / 2);
+        /*prevent the lens from being positioned outside the image:*/
+        if (x > img.width - lens.offsetWidth) {x = img.width - lens.offsetWidth;}
+        if (x < 0) {x = 0;}
+        if (y > img.height - lens.offsetHeight) {y = img.height - lens.offsetHeight;}
+        if (y < 0) {y = 0;}
+        /*set the position of the lens:*/
+        lens.style.left = x + "px";
+        lens.style.top = y + "px";
+        /*display what the lens "sees":*/
+        result.style.backgroundPosition = "-" + (x * cx) + "px -" + (y * cy) + "px";
+      }
+      function getCursorPos(e) {
+        var a, x = 0, y = 0;
+        e = e || window.event;
+        /*get the x and y positions of the image:*/
+        a = img.getBoundingClientRect();
+        /*calculate the cursor's x and y coordinates, relative to the image:*/
+        x = e.pageX - a.left;
+        y = e.pageY - a.top;
+        /*consider any page scrolling:*/
+        x = x - window.pageXOffset;
+        y = y - window.pageYOffset;
+        return {x : x, y : y};
+      }
+     }
+     </script>
+    </head>
+    <body style="align-content: center;">
+    <div class="img-zoom-container">
+      <table >
+        <td>
+          <tb><img id="myimage" src="https://i.imgur.com/C4k5UiU.jpg" width="600" height="450"></tb></td>
+          <td><tb><div id="myresult" class="img-zoom-result"></div></tb></td></table>
+    </div>
+    <script>
+     // Initiate zoom effect:
+     imageZoom("myimage", "myresult");
+     </script></body>
+   
+    </div>
+<!-- Tab style -->
+ <style>
+ /* Style the tab content */
+ .tabcontent {
+   display: none;
+   padding: 6px 12px;
+   border: 1px solid #ccc;
+ }</style>
+ <script type="text/javascript">
+ // Hide all elements with class="tabcontent" by default */
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+ // Get the element with id="defaultOpen" and click on it
+ document.getElementById("defaultOpen").click();
+  function openPage(pageName, elmnt, color) {
+   // Hide all elements with class="tabcontent" by default */
+   tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+      tabcontent[i].style.display = "none";
+    }
+   // Remove the background color of all tablinks/buttons
+   tablinks = document.getElementsByClassName("tablink");
+   for (i = 0; i < tablinks.length; i++) {
+     tablinks[i].style.backgroundColor = "";
+   }
+   // Show the specific tab content
+   document.getElementById(pageName).style.display = "block";
+   // Add the specific color to the button used to open the tab content
+   elmnt.style.backgroundColor = color;
+ } </script>
+</html>
